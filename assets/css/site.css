@@ -63,9 +63,9 @@
     color: #2f2f2f;
  }
 
-h1 { 
+#main-title { 
    font-size: 4.75rem;
-   font-family: 'Times New Roman', Times, serif;
+   font-family: 'Playfair Display', serif;
    font-weight: 700;
    text-transform: uppercase;
 }
@@ -194,7 +194,7 @@ header{
 }
 
 table td{
-   padding-left: 0.5rem;
+   padding: 0 0.5rem;
    border: 1px solid #ddd;
    border-spacing: 2px;
 }
